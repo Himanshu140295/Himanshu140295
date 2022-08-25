@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 'Himanshu Fulmali'
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning 'Backend Developement'
+- 🌱 I’m currently learning Backend Developement (node.js)
 - 📫 How to reach me : 'str.piyush@yahoo.com'
 
 <!---
